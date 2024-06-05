@@ -5,3 +5,4 @@
 3. git add . : Agrega archivos del working directory al staging area
 4. git commit -m : Agrega archivos del staging area al repositorio git
 5. git log : Te lista todos los commits realizados
+6. gitignore : 
