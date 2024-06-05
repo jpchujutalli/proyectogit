@@ -7,3 +7,4 @@
 5. git log : Te lista todos los commits realizados
 6. gitignore : Ignora archivos o carpeta
 7. git push -u origin main : Sube archivos a repositorio 
+8. verificando todo este correcto
